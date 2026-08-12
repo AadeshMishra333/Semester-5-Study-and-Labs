@@ -18,3 +18,8 @@ Here We have To DO LIST, but inside the dedicated directory we have separated pl
 - [ ] Many content, SDL and Roadmaps to be organized in local directory and start preparing for IAs(For FACD and EOM not lab integrated subjects) coming up in a week...Jai Shree Krishna
 - [ ] PCAP Assignment DUE Labs 1 to 3
 - [ ] EOM SDL sort
+
+**ROADMAP:** 
+* Get CCDL manual lab 3, ML labs 1 and 2 
+* Get FACD and PCAP material
+* Start with this, SDL registration, CCD notes, EOM notes, Labs of PCAP and ML, ML notes, CCDL lab, PCAP and FACD later **(finish first 4 by 16/08/2026)**
