@@ -1,5 +1,6 @@
 # Semester-5-Study-and-Labs
 This repo is dedicated to studyplan, learnings and mistake tracker for Sem V
+Here We have To DO LIST, but inside the dedicated directory we have separated plans and roadmaps curated for each segment
 ## **VISION** - CGPA > 9.5 so GPA > 9.7
 
 ### 🗓️ 09-08-2026:
@@ -8,6 +9,12 @@ This repo is dedicated to studyplan, learnings and mistake tracker for Sem V
 * Notes but vague
 
 **Goals:**
-- [ ] Notes Skim and Catchup (Roughly)
-- [ ] CCDL Lab needs to be done
+- [ ] Notes Skim and Catchup (Refer each of the subfolders for more planning)(Roughly)
+- [x] CCDL Lab needs to be done
 - [ ] Analyze PCAP and ML lab requirement and projects as well
+
+### 🗓️ 12-08-2026:
+* Teams of [FACD](https://teams.cloud.microsoft/l/channel/19%3ANj_rE0kdB3SistCuKzk3bij_lHmvTsHm0pRmhOiYO8Y1%40thread.tacv2/General?groupId=e2ba8d55-b450-46a4-bf50-d7e14454a93b&tenantId=29bebd42-f1ff-4c3d-9688-067e3460dc1f), ML, [PCAP](https://teams.cloud.microsoft/l/channel/19%3APkcgFSNWrpobpVUA_lhf6vVR1nrCcN8DNf3Q12V8ARE1%40thread.tacv2/General?groupId=94872c89-413e-4706-aa47-79917a4b2e07&tenantId=29bebd42-f1ff-4c3d-9688-067e3460dc1f), Whatsapp of EOM, 
+- [ ] Many content, SDL and Roadmaps to be organized in local directory and start preparing for IAs(For FACD and EOM not lab integrated subjects) coming up in a week...Jai Shree Krishna
+- [ ] PCAP Assignment DUE Labs 1 to 3
+- [ ] EOM SDL sort
