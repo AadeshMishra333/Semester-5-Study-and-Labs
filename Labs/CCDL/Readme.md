@@ -1,7 +1,7 @@
 # CCDL Readme
 This is CCD lab Readme
 
-## LAB 1 To Remember
+## LAB 1 To Remember - [Refer Copilot](https://outlook.cloud.microsoft/host/b5abf2ae-c16b-4310-8f8a-d3bcdb52f162/entity1-d870f6cd-4aa5-4d42-9626-ab690c041429) (CCDL Lab 1 and 2) 
 
 ### Workflow Steps
 * Resolve address/name
@@ -27,3 +27,7 @@ This is CCD lab Readme
 * **Lab Ports:**
   * **Nginx:** `8080`
   * **Tomcat:** `8888`
+
+
+This needs to be studied thoroughly so go through labs 1 and 3 properly
+SO CCDL WILL BE SORTED ON 13/08/2026 get lab 3 material and start prep
