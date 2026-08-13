@@ -20,6 +20,10 @@ Here We have To DO LIST, but inside the dedicated directory we have separated pl
 - [ ] EOM SDL sort
 
 **ROADMAP:** 
-* Get CCDL manual lab 3, ML labs 1 and 2 
+* Get CCDL manual lab 3, ML labs 1 and 2 (Done)
 * Get FACD and PCAP material
 * Start with this, SDL registration, CCD notes, EOM notes, Labs of PCAP and ML, ML notes, CCDL lab, PCAP and FACD later **(finish first 4 by 16/08/2026)**
+
+### 🗓️ 13-08-2026:
+* Course Plan Summary till IA1 Given in Respective Physical Notes
+* #### **FOLLOW THIS:** Finish chapter then find the QPs for that for active revision
