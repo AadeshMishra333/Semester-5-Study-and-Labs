@@ -11,3 +11,6 @@ This is EOM readme
 
 
 SO EOM GOOD (12/08/2026)
+
+### 13/08/2026
+* Made notes till systems approach of management(slow but good and real progress, EOM Team 3 Final for the term assignment 
