@@ -12,4 +12,5 @@ We have the LMS mapped so FACD Sorted (20/08/2026)
 * For page 34 [question a to _**i**_](https://chatgpt.com/s/t_6a8820d2be008191b848425151189152)
 
 ### Later (Chap. 1 and 2):
-> Slides 63-75(exercise), 86(theory), 87(exercise), 88-97(not covered yet), 97 onwards(NFA to DFA, DFA minimization - Refer class notes for them in the mean while, also various examples and exercises)
+> - Slides 63-75(exercise), 86(theory), 87(exercise), 88-97(not covered yet), 97 onwards(NFA to DFA, DFA minimization - Refer class notes for them in the mean while, also various examples and exercises)
+> - Notebook questions and practice
