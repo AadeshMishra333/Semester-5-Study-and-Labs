@@ -26,7 +26,7 @@ Here We have To DO LIST, but inside the dedicated directory we have separated pl
 
 ### 🗓️ 13-08-2026:
 * Course Plan Summary till IA1 Given in Respective Physical Notes
-* #### **FOLLOW THIS:** Finish chapter then find the QPs for that for active revision
+* ## **FOLLOW THIS:** Finish chapter then find the QPs for that for active revision - refer slides and TB both for figuring out answer
 
 ### 🗓️ 16-08-2026:
 * Finishing up FACD and EOM for IA 1
