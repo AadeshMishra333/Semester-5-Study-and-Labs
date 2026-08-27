@@ -1,0 +1,5 @@
+- Simple linear regression - least squares method, one variable with degree 1 beta 1 = sigma(x-xbar)(y-ybar)/(x-xbar)square, beta naught = y bar - beta 1 x bar, so we have equation and hence errors also
+- [Simple LR extension](https://chatgpt.com/s/t_6a8f47421f3881918ab5a27fb1cb495e) - Pedhazur same as least squares and then Calculus, derivation of pedhazur
+- MLR - matrix formulation beta matrix = (XtX)-1(XtY) and add one column of ones
+- MLR - Quadratic formulation 3 variable 3 equation wala
+- [Coefficient and Model accuracy analysis](https://chatgpt.com/s/t_6a8f9a55c1488191943431c4b27e26ab) - The last few points after the flow chart are important
