@@ -11,14 +11,14 @@ SO ML IS GOOD (12/08/2026)
 ### Later (Mod. 1 and 2):
 > - Slide ~10 around Structure a proper answer for examples of statistical learning
 > - Slides 57,58 similar to what we have covered in earlier slides
-> - Mod2 Sldie 37 derivation of coefficients, pedhazur formula, calculus method, matrix formulation
-> - Normal/Matrix Formulation Method question - Solved Problems pdf and slide 52
-> - Gradient Descent - See the method, simple steps online can easily find...from cost function get the slope equations once that's all
-> - MLR concept + solved page 11 solved problems
+> - (Done) Mod2 Sldie 37 derivation of coefficients, pedhazur formula, calculus method, matrix formulation
+> - (Done) Normal/Matrix Formulation Method question - Solved Problems pdf and slide 52
+> - (Later Not Now) Gradient Descent - See the method, simple steps online can easily find...from cost function get the slope equations once that's all
+> - (Done) MLR concept + solved page 11 solved problems
 >
 > ### Many numericals are being left behind...approach - list all the numerical techniques, make notes of them first
-> - After this do classification from Copilot + Ch4_Classification
-> - Do Lab Theory, Mod 2 Sir Slides Theory
+> - After this do classification from Copilot + Ch4_Classification (This is not for IA 1)
+> - Do Lab Theory, Mod 2 Sir Slides Theory 
 > - **Confusion** slide 38 onwards ch 3 LR ~ slide 84 onw in module 2
 > - Important Questions Spread Accross Mod 2 and Ch 3
 
@@ -26,3 +26,4 @@ SO ML IS GOOD (12/08/2026)
 
 ### Derivation (Mod. 1 and 2):
 > - Slide 31 reducible and irreducible errors
+> - Calculus Method Normal Form Derivation
