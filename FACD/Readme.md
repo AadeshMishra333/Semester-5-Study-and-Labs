@@ -15,3 +15,7 @@ We have the LMS mapped so FACD Sorted (20/08/2026)
 > - Slides 63-75(exercise), 86(theory), 87(exercise), 88-97(not covered yet), 97 onwards(NFA to DFA, DFA minimization - Refer class notes for them in the mean while, also various examples and exercises)
 > - Notebook questions and practice
 > - Epsilon NFA covered but not in syllabus
+
+### Revision Phase IA1 (27th August):
+> - DFA combined (And, Or, Not) Production rules are good questions but very standard - Let the states represent a condition and draw logically from that
+> - Positional and memory DFA question require the most thinking practice those properly
