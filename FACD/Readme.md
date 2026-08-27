@@ -18,4 +18,4 @@ We have the LMS mapped so FACD Sorted (20/08/2026)
 
 ### Revision Phase IA1 (27th August):
 > - DFA combined (And, Or, Not) Production rules are good questions but very standard - Let the states represent a condition and draw logically from that
-> - Positional and memory DFA question require the most thinking practice those properly
+> - Positional and memory DFA question require the most thinking practice those properly (search this "Positional and Memory-Based DFA" on copilot FACD)
