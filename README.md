@@ -11,7 +11,7 @@ Here We have To DO LIST, but inside the dedicated directory we have separated pl
 **Goals:**
 - [X] Notes Skim and Catchup (Refer each of the subfolders for more planning)(Roughly)
 - [x] CCDL Lab needs to be done
-- [ ] Analyze PCAP and ML lab requirement and projects as well
+- [x] Analyze PCAP and ML lab requirement and projects as well
 
 ### 🗓️ 12-08-2026:
 * Teams of [FACD](https://teams.cloud.microsoft/l/channel/19%3ANj_rE0kdB3SistCuKzk3bij_lHmvTsHm0pRmhOiYO8Y1%40thread.tacv2/General?groupId=e2ba8d55-b450-46a4-bf50-d7e14454a93b&tenantId=29bebd42-f1ff-4c3d-9688-067e3460dc1f), ML, [PCAP](https://teams.cloud.microsoft/l/channel/19%3APkcgFSNWrpobpVUA_lhf6vVR1nrCcN8DNf3Q12V8ARE1%40thread.tacv2/General?groupId=94872c89-413e-4706-aa47-79917a4b2e07&tenantId=29bebd42-f1ff-4c3d-9688-067e3460dc1f), Whatsapp of EOM, 
@@ -34,9 +34,23 @@ Here We have To DO LIST, but inside the dedicated directory we have separated pl
 ### 🗓️ 20-08-2026:
 * LMS is mapped
 
-## Current Goals
-* [ ] ML IA1(Labs 1 to 3, ML Basics Regression, LR, PR, MR) on 27th
-* [ ] FACD(till Regular Expressions - Syllabus Complete Tomorrow)
-* [ ] EOM(Syllabus Complete Do the MCQs) Next week
-* [ ] PCAP and CCD Analyze what is the Scene of Labs, IAs and Projects
-* [ ] Analyze PCAP and ML lab requirement and projects as well
+* [x] ML IA1(Labs 1 to 3, ML Basics Regression, LR, PR, MR) on 27th
+* [X] EOM(Syllabus Complete Do the MCQs) Next week
+* [X] PCAP and CCD Analyze what is the Scene of Labs, IAs and Projects
+* [x] Analyze PCAP and ML lab requirement and projects as well
+
+## Current Plan Time to Catchup
+After the katha we are good on attendance but there are few things needed to be managed
+* [ ] CCDL lab eval(at the end of the semester) and lab 6 completion
+* [ ] ML lab eval(thoda dikkat - next lab) and lab 6 complete lab 7 complete
+* [ ] PCAP 2 labs missed No eval so repeat these and complete lab 6 and 7 (managed all lab shit by 9th)
+
+## Next IA 2 s and Midsems
+* [ ] See the current IA 2 dates shared
+  - ML 15 th September LMS
+  - EOM 19th October Pen and Paper
+
+## Later - Projects and Submissions
+* [ ] PCAP
+* [ ] ML
+* [ ] CCDL
