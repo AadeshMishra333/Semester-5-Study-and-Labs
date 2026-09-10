@@ -49,8 +49,17 @@ After the katha we are good on attendance but there are few things needed to be 
 * [ ] See the current IA 2 dates shared
   - ML 15 th September LMS
   - EOM 19th October Pen and Paper
+  - FACD 18th September LMS 10 mins
+
+* [ ] Midsems plan
+  - See the Subjects, Dates and Make a plan to finish well before 25th 
+  - See the Syllabus
+     
+* [ ] Lab Endsems
+  - 10th October for D1 Batch
 
 ## Later - Projects and Submissions
 * [ ] PCAP
 * [ ] ML
 * [ ] CCDL
+* [ ] EOM
