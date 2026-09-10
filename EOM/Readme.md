@@ -1,4 +1,7 @@
 # EOM Readme
+
+[Midsem Papers](https://lighthouse.manipal.edu/d2l/le/news/69554/7569/view)
+
 This is EOM readme
 * Big files can't be uploaded so refer the local copy
 
