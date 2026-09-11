@@ -16,4 +16,7 @@ Notes Available see syllabus and start studying
   - **(Important)** Shared and Distributed Memory Programming Paradigms - Slide 42
 
 - **Module 2**
-  -  One
+  -  openmp overview (tree of sections in OpenMP) - pg 68
+  -  **(Important)** coding exercises along with lab portions - pg 69 onwards
+  -  Parallelizing Loops with independent iterations diagram understand - pg 83/39
+  -  Nowait and Collapse Feel - pg 86/42
