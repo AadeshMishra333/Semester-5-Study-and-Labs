@@ -8,7 +8,9 @@ Notes Available see syllabus and start studying
 **Later**
 - **Module 1**
   - Application of Parallel Computers - Slide 6
-  - Pipeline Computer Diagram - Slide 16
-  - Array Computer Diagram - Slide 18
-  - Multiprocessor Computer Diagram - Slide 19
+  - **(Important)** Pipeline Computer Diagram - Slide 16
+  - **(Important)** Array Computer Diagram - Slide 18
+  - **(Important)** Multiprocessor Computer Diagram - Slide 19
   - Interconnection between memory and Processors - Slide 20
+  - Ex slide 40
+  - **(Important)** Shared and Distributed Memory Programming Paradigms - Slide 42
