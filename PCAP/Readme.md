@@ -14,3 +14,6 @@ Notes Available see syllabus and start studying
   - Interconnection between memory and Processors - Slide 20
   - Ex slide 40
   - **(Important)** Shared and Distributed Memory Programming Paradigms - Slide 42
+
+- **Module 2**
+  -  One
