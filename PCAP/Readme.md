@@ -19,4 +19,8 @@ Notes Available see syllabus and start studying
   -  openmp overview (tree of sections in OpenMP) - pg 68
   -  **(Important)** coding exercises along with lab portions - pg 69 onwards
   -  Parallelizing Loops with independent iterations diagram understand - pg 83/39
-  -  Nowait and Collapse Feel - pg 86/42
+  -  Nowait and Collapse Feel(through examples) - pg 86/42
+  -  Construct vs Clause vs Directive
+  -  Synchronization construct Feel(through examples) - pg 111/67
+  -  Critical Section vs Master vs Single....also what is meant by 'with the same name'? - pg 115/71
+  -  Restrictions on reduction variables not so clear - pg 120/76
