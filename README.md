@@ -50,6 +50,25 @@ After the katha we are good on attendance but there are few things needed to be 
   - ML 15 th September LMS
   - EOM 19th October Pen and Paper
   - FACD 18th September LMS 10 mins
+  
+### Midsem Syllabus(According to Course Plan+Sathwik)
+> 
+> EOM:
+> Chapter 1,2
+> Chapter 3 up to Methods of Departmentation
+> 
+> FACD:
+> L1 to L29(Up to and Including Bottom Up Parsing)
+> 
+> CCDL:
+> Till Containerisation(Labs not clear if will be asked)
+> 
+> PCAP:
+> L1 to L17(OpenMP,MPI and all OpenMP and MPI Labs)
+> Lab 1 to Lab 6
+> 
+> ML:
+> Until KNNs(and Till Lab 8 for Lab)
 
 * [ ] Midsems plan
   - See the Subjects, Dates and Make a plan to finish well before 25th 
