@@ -4,6 +4,8 @@ This is PCAP readme
 No material Provided rely on Books and Notes
 PCAP NOT SORTED (12/08/2026)
 
+# Midsems Portions: Mod 1 + 2 + 3(till 2d Conv) + Labs week 1 to 8
+
 Notes Available see syllabus and start studying
 **Later**
 - **Module 1**
@@ -24,3 +26,6 @@ Notes Available see syllabus and start studying
   -  Synchronization construct Feel(through examples) - pg 111/67
   -  Critical Section vs Master vs Single....also what is meant by 'with the same name'? - pg 115/71
   -  Restrictions on reduction variables not so clear - pg 120/76
+
+- **Module 3**
+  -  Hi
