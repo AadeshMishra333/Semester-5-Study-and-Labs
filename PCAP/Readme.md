@@ -4,7 +4,7 @@ This is PCAP readme
 No material Provided rely on Books and Notes
 PCAP NOT SORTED (12/08/2026)
 
-# Midsems Portions: Mod 1 + 2 + 3(till 2d Conv) + Labs week 1 to 8
+# Midsems Portions: Mod 1 + 2 + 3(till 2d Conv) + Labs week 1 to 6
 
 Notes Available see syllabus and start studying
 **Later**
@@ -28,4 +28,15 @@ Notes Available see syllabus and start studying
   -  Restrictions on reduction variables not so clear - pg 120/76
 
 - **Module 3**
+  -  Ssend vs Send Output difference - pg 149/23
+  -  MPI_Buffer_detach me &buffer and &size lagta hai?? - pg 153/27
+  -  MPI reduction Operations - pg 157/31
+  -  (Good) Collective Communication Routines - pg 158/32
+  -  MPI scatter more feel - pg 163/37
+  -  (Important) Go through the diagrams of the examples for collective communications, very conceptual, Also see then solve examples of each
+  -  Row scatter example better explanation - pg 178-77/50-1
+  -  Column Scatter Example '' - pg 179-81/53-5
+  -  See error examples and classes, also useful MPI routines from page 188 onw/62 onw
+
+- **Module 4**
   -  Hi
