@@ -43,7 +43,7 @@ Here We have To DO LIST, but inside the dedicated directory we have separated pl
 After the katha we are good on attendance but there are few things needed to be managed
 * [ ] CCDL lab eval(at the end of the semester) and lab 6 completion(done - lab 8 me submit krna hai along with a letter of lab repetition and lab 7)
 * [ ] ML lab eval(thoda dikkat - next lab) and lab 6 complete lab 7 complete 
-* [ ] PCAP 2 labs missed No eval so repeat these and complete lab 6 and 7 (managed all lab shit by 9th)
+* [x] PCAP 2 labs missed No eval so repeat these and complete lab 6 and 7 (managed all lab shit by 9th)
 
 ## Next IA 2 s and Midsems
 * [ ] See the current IA 2 dates shared
