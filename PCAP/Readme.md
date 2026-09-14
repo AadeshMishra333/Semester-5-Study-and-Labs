@@ -38,5 +38,5 @@ Notes Available see syllabus and start studying
   -  Column Scatter Example '' - pg 179-81/53-5
   -  See error examples and classes, also useful MPI routines from page 188 onw/62 onw
 
-- **Module 4**
+- **Module 4** - Many Diagrams
   -  Hi
