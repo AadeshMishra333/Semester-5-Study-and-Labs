@@ -39,4 +39,6 @@ Notes Available see syllabus and start studying
   -  See error examples and classes, also useful MPI routines from page 188 onw/62 onw
 
 - **Module 4** - Many Diagrams
-  -  Hi
+  -  CPU GPU block diagram - pg 196/4
+  -  Architecture of a modern GPU - pg 198/6
+  -  Fair CUDA execution flow - pg 200/9
