@@ -7,3 +7,4 @@ This are some important links
 * Manipal OSF and Library Portal
 * LMS
 * Teams
+* [Official QPs](https://mitmpllibportal.manipal.edu/question-papers-1)
