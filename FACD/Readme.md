@@ -17,5 +17,5 @@ We have the LMS mapped so FACD Sorted (20/08/2026)
 > - Epsilon NFA covered but not in syllabus
 
 ### Revision Phase IA1 (27th August):
-> - DFA combined (And, Or, Not) Production rules are good questions but very standard - Let the states represent a condition and draw logically from that
+> - DFA combined (And, Or, Not) Production rules are good questions but very standard - Let the states represent a condition and draw logically from that **[SOLVE ANY DFA QUESTION](https://github.com/AadeshMishra333/Semester-5-Study-and-Labs/blob/main/FACD/DFA%20Guide%20Sheet.md)**
 > - Positional and memory DFA question require the most thinking practice those properly (search this "Positional and Memory-Based DFA" on copilot FACD)
