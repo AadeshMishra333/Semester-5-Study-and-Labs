@@ -29,3 +29,6 @@ SO ML IS GOOD (12/08/2026)
 ### Derivation (Mod. 1 and 2):
 > - Slide 31 reducible and irreducible errors
 > - Calculus Method Normal Form Derivation
+
+## IA 2 today (15/09/2026) - Syllabus too clustered, not putting my mind into it as of now, will proceed with cheating
+- So hume IA2 se koi help nahi hua ML me, we must structure its syllabus moving forward, refering the course plan
