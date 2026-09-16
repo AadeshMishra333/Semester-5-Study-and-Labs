@@ -34,4 +34,15 @@ We have the LMS mapped so FACD Sorted (20/08/2026)
 > - page 45 onwards LLG question + pyqs
 
 ### Later (Chap. 5):
-> - 
+> - CFL vs RL
+> - Regular vs Linear vs CFG example check pg 5
+> - Q) grammar for A language over {a, b, c} that do not contain the substring abc
+> - G = ({S}, {a, b}, S, {S → aSb | bSa | SS | epsilon}) is this grammar context -free?
+> - pg 12 LMD, RMD example
+> - pg 16-17 Derivation Tree and Partial Derivation Tree Proper definition
+> - pg 21 - simple relation between sentinal forms and derivation trees
+> - If G is ambiguous then L(G) is not necessarily ambiguous (why??)
+
+### Later (Chap. 7):
+> - pg 18 - NPDA for L = { a^n b^n : n>=0 }, see yt video, not clear yet
+> - pg 32-39 NPDA examples
