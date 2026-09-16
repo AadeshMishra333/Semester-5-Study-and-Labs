@@ -30,4 +30,8 @@ We have the LMS mapped so FACD Sorted (20/08/2026)
 > - Slide 25 to 28 questions of NFA and DFA construction are confusing
 > - 34-36 finding RE from GFG graph
 > - 38 DFA for RLG
+> - 42 good question
+> - page 45 onwards LLG question + pyqs
+
+### Later (Chap. 5):
 > - 
