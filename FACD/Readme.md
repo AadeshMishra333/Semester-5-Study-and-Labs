@@ -46,3 +46,4 @@ We have the LMS mapped so FACD Sorted (20/08/2026)
 ### Later (Chap. 7):
 > - pg 18 - NPDA for L = { a^n b^n : n>=0 }, see yt video, not clear yet
 > - pg 32-39 NPDA examples
+> - pg 50 simple NPDA question
