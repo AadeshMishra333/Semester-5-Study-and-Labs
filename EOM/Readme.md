@@ -20,3 +20,6 @@ SO EOM GOOD (12/08/2026)
 
 ### 17/08/2026
 * Made MCQ Question Set - See before Surprise Test 1
+
+### 18/09/2026
+* Project Submission Guidelines Given on LMS submit before 4th Oct
