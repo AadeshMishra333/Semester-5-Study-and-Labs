@@ -1,0 +1,2 @@
+- [All QP Extracted till L 18](https://chatgpt.com/c/6aae4e82-7800-834e-8b34-6493c2cf6d86)
+- 
