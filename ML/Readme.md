@@ -36,3 +36,5 @@ SO ML IS GOOD (12/08/2026)
 
 ## IA 2 today (15/09/2026) - Syllabus too clustered, not putting my mind into it as of now, will proceed with cheating
 - So hume IA2 se koi help nahi hua ML me, we must structure its syllabus moving forward, refering the course plan
+
+## 19/09/26 - Labs and Question Papers sort
