@@ -24,6 +24,9 @@ SO ML IS GOOD (12/08/2026)
 > - **Confusion** slide 38 onwards ch 3 LR ~ slide 84 onw in module 2
 > - Important Questions Spread Accross Mod 2 and Ch 3
 
+### Later (Ch 15 and 16):
+> - Gradient Descent, SGD, BGD, Mini BGD, Logistic and Linear also feature scaling Practicing refering copilot [response](https://copilot.cloud.microsoft/chat/share/eyJzaGFyZUlkIjoiNTljMjE0ODctMGI3Yi00ZjhkLTgxMjMtNTgwZDlkYjAwYzJhIiwiY29udmVyc2F0aW9uSWQiOiJmODIwMjhhZC1iY2M5LTRiMWEtYmZjMS0yMjgzYzE1ZTQ3MGYifQ%3D%3D) 
+
 #### After completion we have Mod 2 mainly _numericals_ (old + new slides, labs, solved problems) Mod 1 is theory (old slides + new very less + notes ready) Lab is mainly implementation and numericals are covered already prior then we have Classification theory + numericals which is more structured so all good
 
 ### Derivation (Mod. 1 and 2):
