@@ -1,0 +1,2 @@
+- [From all slides till Chapter 7 - L1/L16](https://chatgpt.com/c/6aae5bf2-5c48-834d-a767-8c4e00077fc4)
+- 
