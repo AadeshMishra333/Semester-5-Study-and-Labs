@@ -23,3 +23,14 @@ SO EOM GOOD (12/08/2026)
 
 ### 18/09/2026
 * Project Submission Guidelines Given on LMS submit before 4th Oct
+
+### To Cover: Essentials of Planning
+- Slide 4: Diagram of planning
+- Slide 9: Purpose Vision and Mission
+- Slide 10: Pyramid
+- Slide 26: Hierarchy of organization (guessing the same as slide 10)
+- Slide 39: Boxed flow
+- Slide 40: Example of verifiable and non verifiable objectives
+- Slide 47: Boxed flow of strategic planning
+- Slide 63/66: Four action strategy framework
+- Slide 68/72: Highlighted examples of SWOT (given in small colored footers)
