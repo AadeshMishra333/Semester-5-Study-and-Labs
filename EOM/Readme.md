@@ -42,3 +42,6 @@ SO EOM GOOD (12/08/2026)
 ### To cover: Organizational Planning
 - Slide 15/16: Factors affecting span of control
 - In departmentation, when mentioning table/flow hierarchy mention minimum 4 levels
+
+### 24/09/26:
+> - Best way to cover theory - [Structured QP Notes](https://github.com/AadeshMishra333/Semester-5-Study-and-Labs/blob/main/EOM/EOM_Targeted_QP_Map_2024-2026.md)
