@@ -46,4 +46,4 @@ SO ML IS GOOD (12/08/2026)
   >- [Comparison metrics and AUC ROC](https://chatgpt.com/c/6aaf9b07-2b00-834f-b946-b93e4e758196) - Very Basic and surface level
   >- [Numerical Notes for LR, Log R, Bayesian and Naive Bayes, KNN](https://chatgpt.com/c/6aaf92e2-2dd4-834c-94be-bf180a20f6d5) - Process was to take PYQs, feed it along with the slides and GPT prepared focus notes for them
   >- **READ ONCE** [theory notes of the topics from L5 to L12](https://chatgpt.com/c/6aae9cd4-df0c-834c-9cf6-12d4bce88694) - Have been referred to TB
-  >- Proper Numerical Notes in PAO NB and also soft copy here
+  >- Proper Numerical Notes in PAO NB and also [soft copy here](https://github.com/AadeshMishra333/Semester-5-Study-and-Labs/blob/main/ML/ml%20numericals%20.pdf)
