@@ -39,3 +39,6 @@ SO ML IS GOOD (12/08/2026)
 
 ## 19/09/26 - Labs and Question Papers sort
 >- Covering Many [Uncovered Topics](https://chatgpt.com/share/e/6aaedc2c-eb70-834e-b5fb-7ee29fbf3cca) till classification start
+
+### 24/09/26
+- Comparison metrics slides remaining on LMS
