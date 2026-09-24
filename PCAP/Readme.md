@@ -42,3 +42,7 @@ Notes Available see syllabus and start studying
   -  CPU GPU block diagram - pg 196/4
   -  Architecture of a modern GPU - pg 198/6
   -  Fair CUDA execution flow - pg 200/9
+
+### 24/09/26:
+> - Cover the CUDA part and LAB 1/6 codes
+> - Question Paper Practice
