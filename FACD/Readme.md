@@ -47,3 +47,9 @@ We have the LMS mapped so FACD Sorted (20/08/2026)
 > - pg 18 - NPDA for L = { a^n b^n : n>=0 }, see yt video, not clear yet
 > - pg 32-39 NPDA examples
 > - pg 50 simple NPDA question
+
+### 24/09/26: To do final touchup
+> - Refine your numericals by solving [targeted problems](https://chatgpt.com/c/6aae5bf2-5c48-834d-a767-8c4e00077fc4) from L1 to L16 
+> - Cover compiler Design topic - very vague idea
+> - Cover the left factoring, left recursion, first, follow, parse table, tree, stack question
+> - Move to SQPs
