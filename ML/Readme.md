@@ -24,9 +24,11 @@ SO ML IS GOOD (12/08/2026)
 > - **Confusion** slide 38 onwards ch 3 LR ~ slide 84 onw in module 2
 > - Important Questions Spread Accross Mod 2 and Ch 3
 
-### Later (Ch 15 and 16):
+### Later (Ch 15 and 16) + Misc:
 > - Gradient Descent, SGD, BGD, Mini BGD, Logistic and Linear also feature scaling Practicing refering copilot [response](https://copilot.cloud.microsoft/chat/share/eyJzaGFyZUlkIjoiNTljMjE0ODctMGI3Yi00ZjhkLTgxMjMtNTgwZDlkYjAwYzJhIiwiY29udmVyc2F0aW9uSWQiOiJmODIwMjhhZC1iY2M5LTRiMWEtYmZjMS0yMjgzYzE1ZTQ3MGYifQ%3D%3D)
 > - Bayesian, Naive Bayes and KNN classifier question practice
+> - Perf Measures - Classification vs Regression
+> - Slide 53: Numerical for ROC curve
 
 #### After completion we have Mod 2 mainly _numericals_ (old + new slides, labs, solved problems) Mod 1 is theory (old slides + new very less + notes ready) Lab is mainly implementation and numericals are covered already prior then we have Classification theory + numericals which is more structured so all good
 
@@ -41,7 +43,11 @@ SO ML IS GOOD (12/08/2026)
 >- Covering Many [Uncovered Topics](https://chatgpt.com/share/e/6aaedc2c-eb70-834e-b5fb-7ee29fbf3cca) till classification start
 
 ### 24/09/26
-- Comparison metrics slides remaining on LMS
+- [x] Comparison metrics slides remaining on LMS
+- [x] [Lab Portions](https://chatgpt.com/share/e/6ab51810-2ea8-834d-8fb0-703902b2d443)
+- [x] Thorough Numericals
+- [ ] Thorough Theory
+- [ ] SQPs (3)
 - We have been preparing notes for teaching and got a bit clustered during the process, here's a list of links
   >- [Comparison metrics and AUC ROC](https://chatgpt.com/c/6aaf9b07-2b00-834f-b946-b93e4e758196) - Very Basic and surface level
   >- [Numerical Notes for LR, Log R, Bayesian and Naive Bayes, KNN](https://chatgpt.com/c/6aaf92e2-2dd4-834c-94be-bf180a20f6d5) - Process was to take PYQs, feed it along with the slides and GPT prepared focus notes for them
