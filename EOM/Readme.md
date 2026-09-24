@@ -34,3 +34,11 @@ SO EOM GOOD (12/08/2026)
 - Slide 47: Boxed flow of strategic planning
 - Slide 63/66: Four action strategy framework
 - Slide 68/72: Highlighted examples of SWOT (given in small colored footers)
+- Slide 74: SWOT example
+- Not in slides but see SWOT vs TOWS
+- Slide 97: Applications of BCG matrix
+- Slide 100/101: Apple example and other examples
+
+### To cover: Organizational Planning
+- Slide 15/16: Factors affecting span of control
+- 
