@@ -46,7 +46,7 @@ SO ML IS GOOD (12/08/2026)
 - [x] Comparison metrics slides remaining on LMS
 - [x] [Lab Portions](https://chatgpt.com/share/e/6ab51810-2ea8-834d-8fb0-703902b2d443)
 - [x] Thorough Numericals
-- [ ] Thorough Theory
+- [x] Thorough Theory
 - [ ] SQPs (3)
 - We have been preparing notes for teaching and got a bit clustered during the process, here's a list of links
   >- [Comparison metrics and AUC ROC](https://chatgpt.com/c/6aaf9b07-2b00-834f-b946-b93e4e758196) - Very Basic and surface level
