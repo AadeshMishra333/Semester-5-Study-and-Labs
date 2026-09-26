@@ -48,6 +48,13 @@ We have the LMS mapped so FACD Sorted (20/08/2026)
 > - pg 32-39 NPDA examples
 > - pg 50 simple NPDA question
 
+### Later (Module 2):
+> - pg 11 - Structure of a compiler
+> - pg 19 - assembly level language weird code
+> - pg 20 - Steps involved in lexical analysis
+> - pg 26 - cascade of two processes
+> - pg 38 - RE for tokens, similar concepts as previous
+
 ### 24/09/26: To do final touchup
 > - Refine your numericals by solving [targeted problems](https://chatgpt.com/c/6aae5bf2-5c48-834d-a767-8c4e00077fc4) from L1 to L16 
 > - Cover compiler Design topic - very vague idea
