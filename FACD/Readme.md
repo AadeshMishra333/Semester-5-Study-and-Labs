@@ -54,6 +54,13 @@ We have the LMS mapped so FACD Sorted (20/08/2026)
 > - pg 20 - Steps involved in lexical analysis
 > - pg 26 - cascade of two processes
 > - pg 38 - RE for tokens, similar concepts as previous
+> - **pg 51 onwards - Transition Diagrams are confusing, and also Pattern Match based on an NFA**
+
+### Later (CD_LeftRecursion_LeftFactoring):
+> - pg 1 - Module 2 page 20, steps involved in Lexical Analysis
+
+### Later (CD_PP&RD):
+> - pg 85 - Writing Procedures
 
 ### 24/09/26: To do final touchup
 > - Refine your numericals by solving [targeted problems](https://chatgpt.com/c/6aae5bf2-5c48-834d-a767-8c4e00077fc4) from L1 to L16 
