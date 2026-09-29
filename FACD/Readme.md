@@ -67,3 +67,7 @@ We have the LMS mapped so FACD Sorted (20/08/2026)
 > - Cover compiler Design topic - very vague idea
 > - Cover the left factoring, left recursion, first, follow, parse table, tree, stack question
 > - Move to SQPs
+
+### 29/09/26: Midsems over, very lengthy and unstructured paper with even more unstructured answering
+> - [Compiler Design Theory Guide](https://chatgpt.com/c/6abb330c-a390-834e-b3b1-4c1875da25c2)
+> - [Numerical Notes MINE](https://drive.google.com/drive/folders/12GzDL2rUkmFtJ5-lbxks4rwNSHZRC27J)
