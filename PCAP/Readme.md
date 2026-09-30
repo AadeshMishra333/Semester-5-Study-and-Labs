@@ -42,7 +42,11 @@ Notes Available see syllabus and start studying
   -  CPU GPU block diagram - pg 196/4
   -  Architecture of a modern GPU - pg 198/6
   -  Fair CUDA execution flow - pg 200/9
+  -  vector kernel addition onwards - pg 200/246 left for now will cover alongside final syllabus
 
 ### 24/09/26:
-> - Cover the CUDA part and LAB 1/6 codes
-> - Question Paper Practice
+- Cover the CUDA part and LAB 1/6 codes
+- Question Paper Practice
+
+### 30/09/26: Left one question entirely, other than that most question were conceptual, very little theory so practice coding and cuda more
+- Labs 1-8 [guide](https://chatgpt.com/c/6abca70d-d504-834c-9e0b-f36d942791fa)
