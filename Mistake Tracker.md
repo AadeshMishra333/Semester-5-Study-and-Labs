@@ -12,3 +12,4 @@ This is mistake tracker
 * ML Midsems: Excellent covering of syllabus, just the paper was a bit lengthy but its fine
 * EOM Midsems: Syllabus Covering was excellent by putting QP and weighing the relevant topics, but a few topics were left in last minute, NOO Next time even if surface level, do cover every topics - Notes were excellently structured just had to read through the points once, but all right
 * FACD Midsems: Very lengthy paper, some numericals that were covered later in the syllabus were not so fluently solved...we gave too much time grinding DFA and NFA that we couldn't grind the last portion like GNF. But irrespective we didn't have time to finish the paper with proper answer structuring 
+* PCAP Midsems: Left direct 4 marker question because didn't know MPI error handling directly from syllabus, other than that it was a good attempt because questions were easy and direct, less theory and more concept.
