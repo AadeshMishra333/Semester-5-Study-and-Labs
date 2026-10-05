@@ -78,7 +78,7 @@ After the katha we are good on attendance but there are few things needed to be 
   - 10th October for D1 Batch
 
 ## Later - Projects and Submissions
-* [ ] PCAP - Refer the LAB folder and finish preparation **_VERY IMPORTANT_**
+* [ ] PCAP - Refer the LAB folder and finish preparation **_VERY IMPORTANT_**...setup cuda coding today
 * [ ] ML - Refer the LAB folder and finish preparation **_VERY IMPORTANT_**
 * [ ] CCDL
 * [ ] EOM - Presentation
