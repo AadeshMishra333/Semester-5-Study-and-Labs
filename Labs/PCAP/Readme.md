@@ -22,3 +22,4 @@ LAB SORTED AS OF NOW (12/08/2026)
 - By next week we need to show progress report 3 and then 2 weeks more for final submission
 
 ## Upcoming Exam
+- Shown above
