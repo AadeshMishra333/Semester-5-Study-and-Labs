@@ -31,3 +31,16 @@ This is CCD lab Readme
 
 This needs to be studied thoroughly so go through labs 1 and 3 properly
 SO CCDL WILL BE SORTED ON 13/08/2026 get lab 3 material and start prep
+
+## From Course Plan:
+Nothing Mentioned about the Lab
+
+## Weeks Done:
+Till week 8 done
+> Lab 9 and Lab 10 i.e this week and next week students shall be working on the Miniproject. Teams ahould get laptop and work in the lab
+
+## Upcoming Exams:
+
+
+## Mini Project: 
+- Will be working on it
