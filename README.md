@@ -42,7 +42,7 @@ Here We have To DO LIST, but inside the dedicated directory we have separated pl
 ## Current Plan Time to Catchup
 After the katha we are good on attendance but there are few things needed to be managed
 * [ ] CCDL lab eval(at the end of the semester) and lab 6 completion(done - lab 8 me submit krna hai along with a letter of lab repetition and lab 7)
-* [ ] ML lab eval(thoda dikkat - next lab) and lab 6 complete lab 7 complete 
+* [X] ML lab eval(thoda dikkat - next lab) and lab 6 complete lab 7 complete 
 * [x] PCAP 2 labs missed No eval so repeat these and complete lab 6 and 7 (managed all lab shit by 9th)
 
 ## Next IA 2 s and Midsems
@@ -70,7 +70,7 @@ After the katha we are good on attendance but there are few things needed to be 
 > ML: - Sort the syllabus today 1 day to complete concepts + 1 day lab
 > Until KNNs(and Till Lab 8 for Lab)
 
-* [ ] Midsems plan
+* [X] Midsems plan
   - See the Subjects, Dates and Make a plan to finish well before 25th 
   - See the Syllabus
      
@@ -78,7 +78,7 @@ After the katha we are good on attendance but there are few things needed to be 
   - 10th October for D1 Batch
 
 ## Later - Projects and Submissions
-* [ ] PCAP
-* [ ] ML
+* [ ] PCAP - Refer the LAB folder and finish preparation **_VERY IMPORTANT_**
+* [ ] ML - Refer the LAB folder and finish preparation **_VERY IMPORTANT_**
 * [ ] CCDL
-* [ ] EOM
+* [ ] EOM - Presentation
