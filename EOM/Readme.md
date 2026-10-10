@@ -45,3 +45,7 @@ SO EOM GOOD (12/08/2026)
 
 ### 24/09/26:
 > - Best way to cover theory - [Structured QP Notes](https://github.com/AadeshMishra333/Semester-5-Study-and-Labs/blob/main/EOM/EOM_Targeted_QP_Map_2024-2026.md)
+
+### 11/10/26:
+- EOM IA 2 Announcement: LMS platform, 26th October 2026 (Monday) at 6 PM.
+- Portions: Organising Chapter (Portions that were not included in midterm) and Staffing full chapter
