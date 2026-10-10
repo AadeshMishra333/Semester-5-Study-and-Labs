@@ -74,11 +74,26 @@ After the katha we are good on attendance but there are few things needed to be 
   - See the Subjects, Dates and Make a plan to finish well before 25th 
   - See the Syllabus
      
-* [ ] Lab Endsems
+* [X] Lab Endsems
   - 10th October for D1 Batch
 
 ## Later - Projects and Submissions
-* [ ] PCAP - Refer the LAB folder and finish preparation **_VERY IMPORTANT_**...setup cuda coding today
+* [X] PCAP - Refer the LAB folder and finish preparation **_VERY IMPORTANT_**...setup cuda coding today
 * [ ] ML - Refer the LAB folder and finish preparation **_VERY IMPORTANT_**
 * [ ] CCDL
-* [ ] EOM - Presentation
+* [ ] EOM - Presentation, IA2
+* [ ] Group Project For labs
+
+# Study Plan Now On:
+NOTE: Both Phases are Overlapping
+## _Phase1: The CatchUp_
+- Tomorrow,
+    - CCD: [ ] Till Containerization(understanding level) so that we can follow in class from monday - **REFER CLASS NOTES EACH DAY**
+    - PCAP: NA
+    - EOM: [ ] **REVISE CURRENT CLASS NOTES** we are caught up
+    - FACD: [ ] **REVISE CLASS NOTES** we are caught up
+    - ML: NA
+## _Phase2: The Perfection_
+- The Coming week, Cover entire midsem portions and attempt the papers again
+  - Start with CCD: midsems portions, approach as if you were studying for midsems
+  - <<UPDATE>>
