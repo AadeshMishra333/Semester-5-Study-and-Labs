@@ -94,6 +94,8 @@ NOTE: Both Phases are Overlapping
     - FACD: [ ] **REVISE CLASS NOTES** we are caught up
     - ML: NA
 ## _Phase2: The Perfection_
-- The Coming week, Cover entire midsem portions and attempt the papers again
+- The Coming week and next, Cover entire midsem portions and attempt the papers again
   - Start with CCD: midsems portions, approach as if you were studying for midsems
-  - <<UPDATE>>
+  - _UPDATE_
+## _Phase3: The Mastery_
+- After 2 weeks, We would have some Endsem content, so start preparation of that
