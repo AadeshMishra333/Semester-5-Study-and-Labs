@@ -71,3 +71,10 @@ We have the LMS mapped so FACD Sorted (20/08/2026)
 ### 29/09/26: Midsems over, very lengthy and unstructured paper with even more unstructured answering
 > - [Compiler Design Theory Guide](https://chatgpt.com/c/6abb330c-a390-834e-b3b1-4c1875da25c2)
 > - [Numerical Notes MINE](https://drive.google.com/drive/folders/12GzDL2rUkmFtJ5-lbxks4rwNSHZRC27J)
+
+### 12/10/26: 
+> IA3 for FACD will be scheduled on 30/10/2026
+> Mode : Online on LMS
+> Pattern : MCQs 
+> Time: 6:00 to 6.15 p.m
+> Portions: L29 to L42 ( Refer lesson plan) and SDL topics
