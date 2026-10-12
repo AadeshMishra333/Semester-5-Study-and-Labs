@@ -83,6 +83,7 @@ After the katha we are good on attendance but there are few things needed to be 
 * [ ] CCDL
 * [ ] EOM - Presentation, IA2
 * [ ] Group Project For labs
+* [ ] IA3 FACD 30/10/2026
 
 # Study Plan Now On:
 NOTE: Both Phases are Overlapping
