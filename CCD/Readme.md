@@ -13,3 +13,6 @@ SO CCD GOOD FOR NOW (12/08/2026)
 
 ### 24/09/26
 >- Need to cover Syllabus in Targeted manner
+
+### 13/10/26
+_4. What is a Dockerfile actually describing?_...This topics onwards remaining in CCD notes, topic 4 of containerisation, refer copilot
