@@ -80,20 +80,22 @@ After the katha we are good on attendance but there are few things needed to be 
 ## Later - Projects and Submissions
 * [X] PCAP - Refer the LAB folder and finish preparation **_VERY IMPORTANT_**...setup cuda coding today
 * [ ] ML - Refer the LAB folder and finish preparation **_VERY IMPORTANT_**
-* [ ] CCDL
+* [ ] CCDL Lab 1-4 exam
 * [ ] EOM - Presentation, IA2
 * [ ] Group Project For labs
 * [ ] IA3 FACD 30/10/2026
+* [ ] IA2 CCDL 29/10/2026
+* [ ] FACD IA 1
 
 # Study Plan Now On:
 NOTE: Both Phases are Overlapping
 ## _Phase1: The CatchUp_
 - Tomorrow,
-    - CCD: [ ] Till Containerization(understanding level) so that we can follow in class from monday - **REFER CLASS NOTES EACH DAY**
+    - CCD: [X] Till Containerization(understanding level) so that we can follow in class from monday - **REFER CLASS NOTES EACH DAY**
     - PCAP: NA
-    - EOM: [ ] **REVISE CURRENT CLASS NOTES** we are caught up
-    - FACD: [ ] **REVISE CLASS NOTES** we are caught up
-    - ML: NA
+    - EOM: [X] **REVISE CURRENT CLASS NOTES** we are caught up
+    - FACD: [X] **REVISE CLASS NOTES** we are caught up
+    - ML: Finish The LMS slides post midsems
 ## _Phase2: The Perfection_
 - The Coming week and next, Cover entire midsem portions and attempt the papers again
   - Start with CCD: midsems portions, approach as if you were studying for midsems
