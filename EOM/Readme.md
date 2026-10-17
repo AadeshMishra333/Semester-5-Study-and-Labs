@@ -49,3 +49,12 @@ SO EOM GOOD (12/08/2026)
 ### 11/10/26:
 - EOM IA 2 Announcement: LMS platform, 26th October 2026 (Monday) at 6 PM.
 - Portions: Organising Chapter (Portions that were not included in midterm) and Staffing full chapter
+
+### 17/10/26:
+> IA#2 QUIZ 2
+> Monday 6:00 pm on LMS 
+> 26 October 2026
+> Portion:
+> Chapter 3 left over of MidTerm portion +
+> Chapter 4 Full
+
