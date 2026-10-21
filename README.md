@@ -79,8 +79,8 @@ After the katha we are good on attendance but there are few things needed to be 
 
 ## Later - Projects and Submissions
 * [X] PCAP - Refer the LAB folder and finish preparation **_VERY IMPORTANT_**...setup cuda coding today
-* [ ] ML - Refer the LAB folder and finish preparation **_VERY IMPORTANT_**
-* [ ] CCDL Lab 1-4 exam
+* [ ] ML - Refer the LAB folder and finish preparation **_VERY IMPORTANT_** ENDSEMS COMING
+* [ ] CCDL Lab 1-4 exam 1st Week of November
 * [ ] EOM - Presentation, IA2
 * [ ] Group Project For labs
 * [ ] IA3 FACD 30/10/2026
