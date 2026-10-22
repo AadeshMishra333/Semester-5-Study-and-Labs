@@ -87,6 +87,7 @@ After the katha we are good on attendance but there are few things needed to be 
 * [ ] IA2 CCDL 29/10/2026
 * [ ] FACD IA 1
 * [ ] IA2 EOM 26/10/2026
+* [ ] ML IA3 29/10/2026
 
 # Study Plan Now On:
 NOTE: Both Phases are Overlapping
@@ -96,7 +97,7 @@ NOTE: Both Phases are Overlapping
     - PCAP: NA
     - EOM: [X] **REVISE CURRENT CLASS NOTES** we are caught up
     - FACD: [X] **REVISE CLASS NOTES** we are caught up
-    - ML: Finish The LMS slides post midsems
+    - ML: Finish The LMS slides post midsems ---- UPDATE ---- Finish lab portions for Endsems
 ## _Phase2: The Perfection_
 - The Coming week and next, Cover entire midsem portions and attempt the papers again
   - Start with CCD: midsems portions, approach as if you were studying for midsems
