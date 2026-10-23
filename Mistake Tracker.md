@@ -14,6 +14,12 @@ This is mistake tracker
 * FACD Midsems: Very lengthy paper, some numericals that were covered later in the syllabus were not so fluently solved...we gave too much time grinding DFA and NFA that we couldn't grind the last portion like GNF. But irrespective we didn't have time to finish the paper with proper answer structuring 
 * PCAP Midsems: Left direct 4 marker question because didn't know MPI error handling directly from syllabus, other than that it was a good attempt because questions were easy and direct, less theory and more concept.
 
+# 23-10-2026: To my future Self >= sem 6:
+_Please mentain separate notebooks for:_
+1. Revision and notes 6 in one
+2. Daily Revision - log in every day and just do that day's recap
+3. Class Notes Also 6 in one!!
+
 # After Answerkey view:
 * ML: messed up numerical of laplace and Naive Bias text recognition, also in a theoritical Case based answer - overall preparation was good though
 * EOM: the topics that i had prepared were excellent, but the ones i hadn't, i lacked keywords for them - coverage of syllabus in a good manner (**_FOCUS ON CLASS_**)
