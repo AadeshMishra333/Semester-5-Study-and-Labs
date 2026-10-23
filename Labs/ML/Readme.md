@@ -10,9 +10,9 @@ LAB IS SORTED AS OF NOW (12/08/2026)
 
 ## From course plan:
 - 40 marks Endsem from 30th October [X]
-  > Week 1 to 10
-  > 15 marks writeup - 5 marks python code + _10 marks numerical solving_ _first conquer this_
-  > 25 marks execution
+  > - Week 1 to 10
+  > - 15 marks writeup - 5 marks python code + _10 marks numerical solving_ _first conquer this_
+  > - 25 marks execution
 - 20 marks mini project on 19th October
 - 20 Marks Continuous Lab eval
   > Lab eval next week 6,7,8(write q2),9(write in notebook),10 Also recover the lab 6-7 works from other cpus -- done on drive
