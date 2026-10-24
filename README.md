@@ -86,6 +86,7 @@ After the katha we are good on attendance but there are few things needed to be 
 * [ ] IA3 FACD 30/10/2026
 * [ ] IA2 CCDL 29/10/2026
 * [ ] FACD IA 1
+      > DFA NFA Minimization Regular Expression LL1 (FIRST AND FOLLOW) SLR1 CLR1
 * [ ] IA2 EOM 26/10/2026
 * [ ] ML IA3 29/10/2026
 
