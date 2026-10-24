@@ -40,7 +40,7 @@ Till week 8 done
 > Lab 9 and Lab 10 i.e this week and next week students shall be working on the Miniproject. Teams ahould get laptop and work in the lab
 
 ## Upcoming Exams:
-- IA2 on 29th October batch 1
+- IA2 on 29th October batch 1 14 marks
 
 ## Mini Project: 
 - Will be working on it
