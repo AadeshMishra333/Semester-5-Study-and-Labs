@@ -16,3 +16,7 @@ SO CCD GOOD FOR NOW (12/08/2026)
 
 ### 13/10/26
 _4. What is a Dockerfile actually describing?_...This topics onwards remaining in CCD notes, topic 4 of containerisation, refer copilot
+
+
+### 31/10/2026
+- Completing and Revising the Containerization part from slides 112 onwards
