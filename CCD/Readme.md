@@ -20,3 +20,4 @@ _4. What is a Dockerfile actually describing?_...This topics onwards remaining i
 
 ### 31/10/2026
 - Completing and Revising the Containerization part from slides 112 onwards
+- Configuration Management and Policy as a code - slides 50 and 51
