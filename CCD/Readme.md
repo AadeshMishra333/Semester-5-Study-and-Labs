@@ -23,3 +23,4 @@ _4. What is a Dockerfile actually describing?_...This topics onwards remaining i
 - Configuration Management and Policy as a code - slides 50 and 51
 - Devops tool chain slide 67
 - IaaS vs IaC slide 95
+- ***Version Control and Git Later from DEVOPS***
