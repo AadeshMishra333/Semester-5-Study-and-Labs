@@ -105,3 +105,7 @@ NOTE: Both Phases are Overlapping
   - _UPDATE_
 ## _Phase3: The Mastery_
 - After 2 weeks, We would have some Endsem content, so start preparation of that
+
+# 5 th November 2026:
+- We are somewhat done with CCD and FACD portions
+- Aiming to do ML, EOM and PCAP b4 midsems by 9th **(Jiya ke liye kr ke dikha)**
