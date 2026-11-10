@@ -19,6 +19,7 @@ _Please mentain separate notebooks for:_
 1. Revision and notes 6 in one
 2. Daily Revision - log in every day and just do that day's recap
 3. Class Notes Also 6 in one!!
+4. Refer the 2024 BTECH Admitted PDF for more insight for upcoming semester and reference books required to skim
 
 # After Answerkey view:
 * ML: messed up numerical of laplace and Naive Bias text recognition, also in a theoritical Case based answer - overall preparation was good though
