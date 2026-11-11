@@ -58,3 +58,9 @@ SO EOM GOOD (12/08/2026)
 > Chapter 3 left over of MidTerm portion +
 > Chapter 4 Full
 
+### 11/11/2026:
+- Towards Effective Communication steps and listening wala slides
+- Guidelines to improve written communication
+- 3 Types of controlling last slide
+- SDL left for now
+- Self study left
