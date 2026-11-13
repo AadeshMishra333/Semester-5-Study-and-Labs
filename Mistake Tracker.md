@@ -20,6 +20,8 @@ _Please mentain separate notebooks for:_
 2. Daily Revision - log in every day and just do that day's recap
 3. Class Notes Also 6 in one!!
 4. Refer the 2024 BTECH Admitted PDF for more insight for upcoming semester and reference books required to skim
+5. Make an QP extractor - You cover a topic, and it has feeded QPs according to the semester, it gives all the question asked from that topic (EXCELLENT METHOD)
+6. Relevant to Questions Extracted, another agent finds appropriate answer to them from the material given to them (so 5 + 6 becomes an agentic workflow)
 
 # After Answerkey view:
 * ML: messed up numerical of laplace and Naive Bias text recognition, also in a theoritical Case based answer - overall preparation was good though
