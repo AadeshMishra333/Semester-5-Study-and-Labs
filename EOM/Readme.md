@@ -68,3 +68,4 @@ SO EOM GOOD (12/08/2026)
 
 ### 14/11/2026:
 - Remaining: Organizing (after midsems chotu sa portion), Planning (MBO, steps, classification of planning, **Diagrams**), Chap 1(Ethics + International, External Envm, Systems approach, Starting wala jhant paat)
+- POA: Endsems Paper summarize topic wise, cover remaining shit
