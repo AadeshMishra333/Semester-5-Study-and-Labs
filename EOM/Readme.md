@@ -64,3 +64,7 @@ SO EOM GOOD (12/08/2026)
 - 3 Types of controlling last slide
 - SDL left for now
 - Self study left
+- Departmentation, advantages and disadvantages of the methods
+
+### 14/11/2026:
+- Remaining: Organizing (after midsems chotu sa portion), Planning (MBO, steps, classification of planning, **Diagrams**), Chap 1(Ethics + International, External Envm, Systems approach, Starting wala jhant paat)
