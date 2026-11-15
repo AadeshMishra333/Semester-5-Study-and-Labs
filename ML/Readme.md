@@ -55,3 +55,11 @@ SO ML IS GOOD (12/08/2026)
   >- Proper Numerical Notes in PAO NB and also [soft copy here](https://github.com/AadeshMishra333/Semester-5-Study-and-Labs/blob/main/ML/ml%20numericals%20.pdf)
 
 # Jai Shree Krishna🙏  Midsems Over - Too lengthy but still left approx 0.5 marks worth, also may lose 1/2 marks here and there -> Expectation: 26+/30
+
+### 15/11/2026:
+- SDL remaining Multiple Learners
+- Finishing SVM first
+  - Alternate 3D mappping Page 8 of problem guide left, it's easy but its an alternate
+  - Heart Disease Application
+- Solve many many Numericals
+- Focus on theory
