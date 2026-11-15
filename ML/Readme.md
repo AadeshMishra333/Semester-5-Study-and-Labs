@@ -58,8 +58,9 @@ SO ML IS GOOD (12/08/2026)
 
 ### 15/11/2026:
 - SDL remaining Multiple Learners
-- Finishing SVM first
+- PCA
+- Finishing SVM first (done)
   - Alternate 3D mappping Page 8 of problem guide left, it's easy but its an alternate
   - Heart Disease Application
 - Solve many many Numericals
-- Focus on theory
+- Focus on theory -> B4 midsems refer the ChatGPT notes -> L21,22,25
