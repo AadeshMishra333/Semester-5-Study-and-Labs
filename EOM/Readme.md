@@ -59,13 +59,14 @@ SO EOM GOOD (12/08/2026)
 > Chapter 4 Full
 
 ### 11/11/2026:
-- Towards Effective Communication steps and listening wala slides
+- Towards Effective Communication steps and listening wala slides(done)
 - Guidelines to improve written communication
 - 3 Types of controlling last slide
-- SDL left for now
+- SDL left for now (After Controlling)
 - Self study left
 - Departmentation, advantages and disadvantages of the methods
+- Barriers to Communication
 
 ### 14/11/2026:
-- Remaining: Organizing (after midsems chotu sa portion), Planning (MBO, steps, classification of planning, **Diagrams**), Chap 1(Ethics + International, External Envm, Systems approach, Starting wala jhant paat)
-- POA: Endsems Paper summarize topic wise, cover remaining shit
+- Remaining: Organizing (after midsems chotu sa portion - Line and Staff), Planning (MBO, steps, classification of planning, **Diagrams**), Chap 1(Ethics + International, External Envm, Systems approach, Starting wala jhant paat)
+- POA: Endsems Paper summarize topic wise, cover remaining shit (going well)
