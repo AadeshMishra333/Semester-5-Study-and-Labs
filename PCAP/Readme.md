@@ -56,3 +56,4 @@ Notes Available see syllabus and start studying
 - CUDA Revision requried very good!!
 - PRAM finish
 - Slide 42 - 42 comparison between shared and distributed memory
+- Coding -> Diagrams
