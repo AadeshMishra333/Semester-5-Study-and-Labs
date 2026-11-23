@@ -50,3 +50,8 @@ Notes Available see syllabus and start studying
 
 ### 30/09/26: Left one question entirely, other than that most question were conceptual, very little theory so practice coding and cuda more
 - Labs 1-8 [guide](https://chatgpt.com/c/6abca70d-d504-834c-9e0b-f36d942791fa)
+
+### 22/11/26: 
+- Practice CUDA questions - vector add full, image subtraction, revK
+- CUDA Revision requried very good!!
+- PRAM finish
