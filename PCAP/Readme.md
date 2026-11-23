@@ -55,3 +55,4 @@ Notes Available see syllabus and start studying
 - Practice CUDA questions - vector add full, image subtraction, revK
 - CUDA Revision requried very good!!
 - PRAM finish
+- Slide 42 - 42 comparison between shared and distributed memory
