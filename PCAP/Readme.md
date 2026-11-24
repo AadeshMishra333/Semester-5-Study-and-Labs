@@ -56,4 +56,7 @@ Notes Available see syllabus and start studying
 - CUDA Revision requried very good!!
 - PRAM finish
 - Slide 42 - 42 comparison between shared and distributed memory
-- Coding -> Diagrams
+- Slide 55 ish why Open MP
+- Slide 60 ish thread based parallelism
+- Slide 132 message passing model, advantages of MP model, key concepts of MPI
+- Theory -> Tracing Important Segments -> Coding(MPI collective row and column Scatter) -> Diagrams
