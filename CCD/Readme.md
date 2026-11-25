@@ -25,3 +25,13 @@ _4. What is a Dockerfile actually describing?_...This topics onwards remaining i
 - IaaS vs IaC slide 95
 - ***Version Control and Git Later from DEVOPS***
 - ***KUBERNETES Networking Model***
+
+### 24/11/2026:
+- Slide 26 SOA - SOAP request vs Response
+- Slide 33 Open API description output
+- Slide 52 Virtualization - Hosted vs Native Hypv examples
+- Slide 60 onwards - examples of subdivisions of Hardware virtualization techniques
+- slide 72,73 - Partial Virtualization Adv, Dadv and Comparison of hardware virtulaization
+- Slide 79 - History of PL Virzn
+- Network Virtualization later
+- Application Server VZN
